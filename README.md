@@ -7,16 +7,12 @@ Web Developer
 Web dev , with a passion for all js variants, RoR, always moving and searching for new things to shape my surroundings.
 
 * 🌍  I'm based in São Paulo
+* 🖥️  My work: [Hired](https://hired.herokuapp.com/) and [Partiupicina](https://partiupiscina.herokuapp.com/)
 * ✉️  You can contact me at [vapeprosper@gmail.com](mailto:vapeprosper@gmail.com)
 * 🚀  I'm currently working on [Joe Reads](http://joereads.netlify.app/)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Node
 * 🤝  I'm open to collaborating on Intersting and immersive projects
-* ⚡  Always open to learn and improve myself and my surroundings
-
-<a href="https://www.github.com/LuizCampedelli" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LuizCampedelli?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/luizocampedelli" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/luizocampedelli?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+* ⚡  Always open to learn and improve myself
 
 ### Skills
 
@@ -33,10 +29,8 @@ src="https://img.shields.io/twitter/follow/luizocampedelli?logo=twitter&style=fo
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 
