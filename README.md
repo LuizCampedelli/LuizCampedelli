@@ -5,9 +5,9 @@ Howdy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Web dev , with a passion for all js variants, RoR, always moving and searching for new things to shape my surroundings.
 
 * 🌍  I'm based in São Paulo
-* 🖥️  My work: [Hired](https://hired.herokuapp.com/) and [Partiupicina](https://partiupiscina.herokuapp.com/)
+* 🖥️  My work: [Hired](https://hired.herokuapp.com/), [Partiupicina](https://partiupiscina.herokuapp.com/) and [Lebkuchen aus Rodgau](https://www.lebkuchenausrodgau.de)
 * ✉️  You can contact me at [vapeprosper@gmail.com](mailto:vapeprosper@gmail.com)
-* 🚀  I'm currently working on [Joe Reads](http://joereads.netlify.app/)
+* 🚀  I'm currently freelancing.
 * 🧠  I'm learning React and Node
 * 🤝  I'm open to collaborating on Intersting and immersive projects
 * ⚡  Always open to learn and improve myself
