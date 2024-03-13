@@ -5,10 +5,9 @@ My name is Luiz Campedelli
 Web dev , with a passion for all js variants, RoR, always moving and searching for new things to shape my surroundings.
 
 * 🌍  I'm based in São Paulo
-* 🖥️  My work: [Hired](https://hired.herokuapp.com/), [Partiupicina](https://partiupiscina.herokuapp.com/) and [Lebkuchen aus Rodgau](https://www.lebkuchenausrodgau.de)
-* ✉️  You can contact me at [vapeprosper@gmail.com](mailto:vapeprosper@gmail.com)
+* ✉️  You can contact me at [luizocampedelli@gmail.com](mailto:luizocampedelli@gmail.com)
 * 🚀  I'm currently freelancing.
-* 🧠  I'm learning AWS, DevOps....
+* 🧠  I'm learning AWS and DevOps.
 * 🤝  I'm open to collaborating on Intersting and immersive projects
 * ⚡  Always open to learn and improve myself
 
