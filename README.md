@@ -3,10 +3,9 @@ My name is Luiz Campedelli
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [luizocampedelli@gmail.com](mailto:luizocampedelli@gmail.com)
-* 🚀  I'm currently freelancing.
 * 🧠  I'm learning AWS and DevOps.
-* 🤝  I'm open to collaborating on Intersting and immersive projects
-* ⚡  Always open to learn and improve myself
+* 🤝  I'm open to collaborating on interesting and immersive projects.
+* ⚡  Always open to learn and improve myself.
 
 ### Learning: 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
