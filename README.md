@@ -55,6 +55,20 @@ My current focus is on contributing to the migration of infrastructures and appl
 - **AWS Cloud Practitioner Certification** - 2023
 - **Bootcamp Le Wagon - Web Developer** - 2022/2023
 
+## Languages
+
+- **English**: Advanced
+- **French**: Advanced
+- **Spanish**: Beginner
+
+## Objective
+
+My goal is to leverage my experience in both infrastructure and software development to contribute to cloud migration projects. I aim to adopt and implement the latest best practices in software and infrastructure development, ensuring efficient and scalable solutions.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luiz-otavio-campedelli) or reach out via [email](mailto:luizocampedelli@gmail.com) for collaboration or opportunities.
+
 ---
 
 ### Socials
