@@ -4,7 +4,7 @@
 São Paulo, SP, Brazil  
 📧 [luizocampedelli@gmail.com](mailto:luizocampedelli@gmail.com) 
 
-## Summary
+## Summary:
 
 I am a seasoned professional with over 10 years of experience in infrastructure, networks, and operating systems within the audiovisual industry. I have a robust background in implementing systems tailored to the needs of cinema, advertising, sound studios, motion design, and 3D studios. In addition to my expertise in audiovisual systems, I am a proficient software developer with experience in Ruby on Rails and JavaScript.
 
@@ -19,7 +19,7 @@ My current focus is on contributing to the migration of infrastructures and appl
 
 ---
 
-## Professional Experience
+## Professional Experience:
 
 ### AWS Cloud Educator - Escola da Nuvem (Edtech)
 *09/2023 - Present*
@@ -43,25 +43,32 @@ My current focus is on contributing to the migration of infrastructures and appl
 
 ---
 
-## Education
+## Education:
 
 ### Universidade Cruzeiro do Sul
 *Cyber Security - 2023/2025 (In Progress)*
 
-## Certifications
+## Certifications:
 
 - **DevOps Pro** - Fabrício Veronez - 2023/2024
 - **AWS 4.0 Formation** - Henrylle Maia - 2023/2024
 - **AWS Cloud Practitioner Certification** - 2023
 - **Bootcamp Le Wagon - Web Developer** - 2022/2023
 
-## Languages
+## Languages:
 
 - **English**: Advanced
 - **French**: Advanced
 - **Spanish**: Beginner
 
-## Objective
+### Badges:
+
+<img align="center" alt="AWS re/Start" height="50" width="50" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">&nbsp;
+<img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
+<img align="center" alt="AWS Certified Solutions Architect – Associate" height="50" width="50" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">&nbsp;
+<img align="center" alt="AWS Security and Compliance Immersion Day" height="50" width="50" src="https://images.credly.com/size/340x340/images/759dbbb9-ad0c-4dba-b70f-eedfdbf69076/image.png">&nbsp;
+
+## Objective:
 
 My goal is to leverage my experience in both infrastructure and software development to contribute to cloud migration projects. I aim to adopt and implement the latest best practices in software and infrastructure development, ensuring efficient and scalable solutions.
 
@@ -71,7 +78,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luiz-otav
 
 ---
 
-### Socials
+### Socials:
 
 <p align="left">
 <a href="https://www.dev.to/luizcampedelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
@@ -82,7 +89,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luiz-otav
 <a href="https://www.twitter.com/luizocampedelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+### Stats:
 
 <a href="http://www.github.com/LuizCampedelli"><img src="https://github-readme-stats.vercel.app/api?username=LuizCampedelli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuizCampedelli's GitHub stats" /></a>
 
